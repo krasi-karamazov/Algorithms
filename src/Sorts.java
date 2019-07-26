@@ -23,7 +23,7 @@ public class Sorts {
     }
 
 
-    
+
     //INSERTION SORT
 
     void insertionsort(int arr[])
