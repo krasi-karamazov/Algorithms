@@ -1,5 +1,8 @@
 public class Sorts {
 
+
+    //https://web.stanford.edu/class/cs9/sample_probs/SubarraySums.pdf
+
     //SELECTION SORT
     void sort(int arr[])
     {
